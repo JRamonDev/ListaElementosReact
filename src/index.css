@@ -25,3 +25,11 @@ button{
   padding: 10px 20px;
   border-radius: 5%;
 }
+input{
+  width:180px;
+	padding:3px 10px;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	display:inline-block;
+  margin-left: 5px;
+}
